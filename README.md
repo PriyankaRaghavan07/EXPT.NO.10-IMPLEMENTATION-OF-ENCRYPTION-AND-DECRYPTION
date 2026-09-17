@@ -109,7 +109,8 @@ printf("%c",m[i]);
 
 # OUTPUT:
 
- 
+ <img width="1280" height="698" alt="WhatsApp Image 2026-09-17 at 7 05 06 PM" src="https://github.com/user-attachments/assets/85dd75ed-db57-4590-9b54-3e57e8e7b35f" />
+
 
 
 # RESULT:
